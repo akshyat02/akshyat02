@@ -45,6 +45,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshyat02&" alt="akshyat02" /></p>
 
 <!---
-akshyat02/akshyatpatra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+akshyat02/akshyat02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
